@@ -19,3 +19,5 @@ def layered_multiples(arr):
             nest_array.append(1)
         new_array.append(nest_array)
     return new_array
+
+print layered_multiples([4,5,6])

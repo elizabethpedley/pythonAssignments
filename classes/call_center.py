@@ -59,7 +59,4 @@ chicago.new_call(22, 'bob', '555-555-5555', 1023, 'unhappy')
 chicago.new_call(22, 'bob', '555-555-5555', 1423, 'unhappy')
 chicago.new_call(22, 'bob', '555-555-5555', 23, 'unhappy')
 
-chicago.show_calls()
-
-
-
+# chicago.show_calls()
